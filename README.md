@@ -1,6 +1,6 @@
 # Royal Python Toolkit
 
-> **Educational / demo use only:** Review code before running it. Use only on files, devices, repositories, and networks you own or are explicitly authorized to access. Use at your own risk; no warranty is provided to the maximum extent permitted by applicable law. This notice does not waive non-waivable legal rights or obligations.\n
+> **Educational / demo use only:** Review code before running it. Use only on files, devices, repositories, and networks you own or are explicitly authorized to access. Use at your own risk; no warranty is provided to the maximum extent permitted by applicable law. This notice does not waive non-waivable legal rights or obligations.
 A practical, dependency-free command-line toolbox for everyday Python development.
 
 **Version:** 1.0.0 · **Python:** 3.9+ · **Runtime dependencies:** none

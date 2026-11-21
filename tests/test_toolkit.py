@@ -15,6 +15,7 @@ def test_password():
 
 def test_password_invalid():
     with pytest.raises(ValueError): generate_password(0)
+    with pytest.raises(ValueError): generate_password(4097)
     with pytest.raises(ValueError): generate_password(2, use_lower=True, use_upper=True, use_digits=True, use_symbols=False)
     with pytest.raises(ValueError): generate_password(10, use_lower=False, use_upper=False, use_digits=False, use_symbols=False)
 
